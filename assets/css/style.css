@@ -427,7 +427,7 @@ section {
 .hero {
   width: 100%;
   height: 100vh;
-  background: url("../images/hero-bg.png") top center no-repeat;
+  background: url("https://raw.githubusercontent.com/Shubham9280/InArtiGence_web/main/images/hero-bg.png") top center no-repeat;
   background-size: cover;
 }
 
@@ -1467,7 +1467,7 @@ section {
 }
 
 .footer .footer-top {
-  background: white url("../images/footer-bg.png") no-repeat right top;
+  background: white url("https://raw.githubusercontent.com/Shubham9280/InArtiGence_web/main/images/footer-bg.png") no-repeat right top;
   background-size: contain;
   border-top: 1px solid #e1ecff;
   border-bottom: 1px solid #e1ecff;
